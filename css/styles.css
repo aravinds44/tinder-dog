@@ -94,7 +94,7 @@ p{
 
 @media (max-width:1000px) {
 
-    #title{
+    #title .containner-fluid{
         text-align: center;
     }
 
